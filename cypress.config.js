@@ -17,3 +17,4 @@ module.exports = defineConfig({
         mochaFile: 'reports/test-results-[hash].xml',
     },
 });
+
